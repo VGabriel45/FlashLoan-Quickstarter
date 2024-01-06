@@ -1,3 +1,4 @@
+```
 [User]
   |
   |--- Calls ---> [dodoFlashLoan]
@@ -36,3 +37,4 @@
                                                                    |--- Repays Flash Loan to [DODO Protocol]
                                                                    |
                                                                    |--- Transfers any profit to [Contract Owner]# FlashLoanArbitrage
+```

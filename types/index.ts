@@ -1,4 +1,4 @@
-import {Contract, JsonRpcProvider, ethers} from "ethers";
+import {JsonRpcProvider, ethers} from "ethers";
 import { ERC20 } from "../typechain-types";
 
 export type FlashLoanParams = {

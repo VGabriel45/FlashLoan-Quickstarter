@@ -29,7 +29,7 @@ const config: HardhatUserConfig = {
       url: "https://rpc.ankr.com/polygon",
     },
     phalcon: {
-      url: "https://rpc.phalcon.xyz/rpc_5a49f3fff2c24ee1a39f7f263bf75d62",
+      url: "",
       chainId: 137
     }
   },
